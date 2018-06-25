@@ -15,7 +15,7 @@ git branch $new_version
 git push origin master:master
 git push origin $new_version:$new_version
 
-git clone https://github.com/torch/rocks
+git clone https://github.com/wizcoin/rocks
 cp $new_fname rocks/
 cd rocks
 th make-manifest.lua
