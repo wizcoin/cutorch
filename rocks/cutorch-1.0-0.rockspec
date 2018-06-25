@@ -2,7 +2,7 @@ package = "cutorch"
 version = "1.0-0"
 
 source = {
-   url = "git://github.com/torch/cutorch.git",
+   url = "git://github.com/wizcoin/cutorch.git",
    tag = "1.0-0"
 }
 
@@ -10,7 +10,7 @@ description = {
    summary = "Torch CUDA Implementation",
    detailed = [[
    ]],
-   homepage = "https://github.com/torch/cutorch",
+   homepage = "https://github.com/wizcoin/cutorch",
    license = "BSD"
 }
 
